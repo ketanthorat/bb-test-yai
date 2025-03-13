@@ -1,5 +1,5 @@
 # Make scripts executable
-chmod +x scripts/*.sh
+chmod +x beagleboard_test_report/*.sh
 
 # Run the script 
 sudo ./beagleboard_test_report.sh
